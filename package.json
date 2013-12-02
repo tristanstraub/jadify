@@ -15,8 +15,8 @@
     "browserify",
     "v2",
     "plugin",
-    "transform"
+    "transform",
     "jadify"
-  ]
+  ],
   "license": "MIT"
 }
