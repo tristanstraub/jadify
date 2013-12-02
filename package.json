@@ -1,0 +1,22 @@
+{
+  "name": "jadify",
+  "version": "0.0.1",
+  "description": "browserify v2 plugin for jade files",
+  "main": "index.js",
+  "dependencies": {
+    "through": ">=2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tristanstraub/jadify.git"
+  },
+  "homepage": "https://github.com/tristanstraub/jadify",
+  "keywords": [
+    "browserify",
+    "v2",
+    "plugin",
+    "transform"
+    "jadify"
+  ]
+  "license": "MIT"
+}
